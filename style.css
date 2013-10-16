@@ -1,0 +1,13 @@
+Body {
+	background-color: #000000;
+	font-family: sans-serif;
+	font-size: 20px;
+	color: #ffffff;
+	Width: 80%;
+	Margin: 0 auto;
+}
+H1, h2 {
+	font-family: “Georgia”;
+	font-weight: 300;
+	color: #404040;
+}
